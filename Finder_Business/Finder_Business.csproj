@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Finder_DataAccess\Finder_DataAccess.csproj" />
+    <ProjectReference Include="..\Finder_Entities\Finder_Entities.csproj" />
+  </ItemGroup>
+
+</Project>
